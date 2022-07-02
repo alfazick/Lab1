@@ -1,0 +1,4 @@
+Type month
+Type day
+Type year
+Your magic num is: 2001
